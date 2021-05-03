@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ignaxavier, from Argentina
+- 👀 I’m interested in creating videogames
+- 🌱 I’m currently learning Unity and Web design (HTML, CSS, JavaScript)
